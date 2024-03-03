@@ -1,1 +1,20 @@
-{ "Visibility": "VISIBLE", "Title": "Test", "Description": "Test Message", "MainTextButton": "Update", "Cancelable": "false", "CancelButtonText": "Cancel", "DownloadLink": "https://google.com", "Version": "1.1" }
+{
+  "Visibility": "VISIBLE",
+  "Title": "¿Qué hay de Nuevo?",
+  "Description": "Cosas Geniales Que Obtendrás
+
+- Ahora recibes notificaciones sobre las publicaciones.
+- Ahora estarás informado sobre cada nueva actualización.
+- Se solucionaron 35 viejos errores.
+- Compatibilidad con futuras versiones.
+- Si no actualizas no podrás acceder a nuevas funciones.
+- Ahora DuSocially se actualiza directamente desde su creador. (tendrás la misma versión que el en ese momento)
+- Próximamente DuSocially se actualizará desde la aplicación ¡Se paciente!.
+
+¡DuSocially está cambiando!",
+  "MainTextButton": "Descargar (7mbs)",
+  "Cancelable": "false",
+  "CancelButtonText": "No, gracias",
+  "DownloadLink": "https://github.com/YepaRoberto/DuSocially/raw/main/DuSocially-1.apk",
+  "Version": "1.2"
+}
