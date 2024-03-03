@@ -1,17 +1,7 @@
 {
   "Visibility": "VISIBLE",
   "Title": "¿Qué hay de Nuevo?",
-  "Description": "Cosas Geniales Que Obtendrás
-
-- Ahora recibes notificaciones sobre las publicaciones.
-- Ahora estarás informado sobre cada nueva actualización.
-- Se solucionaron 35 viejos errores.
-- Compatibilidad con futuras versiones.
-- Si no actualizas no podrás acceder a nuevas funciones.
-- Ahora DuSocially se actualiza directamente desde su creador. (tendrás la misma versión que el en ese momento)
-- Próximamente DuSocially se actualizará desde la aplicación ¡Se paciente!.
-
-¡DuSocially está cambiando!",
+  "Description": "Cosas Geniales Que Obtendrás \n\n\n- Ahora recibes notificaciones sobre las publicaciones. \n- Ahora estarás informado sobre cada nueva actualización. \n- Se solucionaron 35 viejos errores. \n- Compatibilidad con futuras versiones. \n- Si no actualizas no podrás acceder a nuevas funciones. \n- Ahora DuSocially se actualiza directamente desde su creador. (tendrás la misma versión que el en ese momento) \n- Próximamente DuSocially se actualizará desde la aplicación ¡Se paciente!.\n\n\n¡DuSocially está cambiando!",
   "MainTextButton": "Descargar (7mbs)",
   "Cancelable": "false",
   "CancelButtonText": "No, gracias",
